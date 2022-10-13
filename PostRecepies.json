@@ -1,0 +1,36 @@
+{
+  "Recepies":[
+    {
+      "RecepieID": "0",
+      "RecepieName": "Indisches Butterhuhn",
+      "RecepieTags": "Indisch",
+      "UploadedBy": "TestUser123",
+      "Description": "Indisches Essen",
+      "ingredients": "Butter, Reiß, Soße"
+    },
+    {
+      "RecepieID": "1",
+      "RecepieName": "Schnitzel",
+      "RecepieTags": "Österreichisch",
+      "UploadedBy": "TestUser123",
+      "Description": "Österreischiches Essen",
+      "ingredients": "Pommes, Schweineschnitzel, Panade"
+    },
+    {
+      "RecepieID": "2",
+      "RecepieName": "HotDog",
+      "RecepieTags": "Hot",
+      "UploadedBy": "TestUser321",
+      "Description": "Hootes Essen",
+      "ingredients": "Hot Dog Brötchen, Würstel"
+    },
+    {
+      "RecepieID": "3",
+      "RecepieName": "Gulasch mit Nudeln",
+      "RecepieTags": "Deutsch",
+      "UploadedBy": "joe_Mama",
+      "Description": "Deutsches Essen",
+      "ingredients": "Gulasch, Soße, Nudeln"
+    }
+  ]
+}
